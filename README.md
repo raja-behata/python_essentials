@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 ## Notes, programs, and files
 
-This repository contains the basic python essentials such as data structures, excercises and notes
+# This contain python essentials such as data structures, excercises and notes for reference
+# It is compilation and notes from Books,Online Classes and Other repositories
 
-The links Point to Content that can be referred
 
-
-The basis for the examples and notes come from the following repostories :
-
+# Reference repository:
 https://github.com/reuven/oreilly-2025-08August-python/tree/main
